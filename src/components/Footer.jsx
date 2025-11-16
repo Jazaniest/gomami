@@ -33,10 +33,10 @@ const Footer = () => {
           <div>
             <h3 className="text-xl font-semibold mb-4">Kontak Kami</h3>
             <p className="text-blue-200 text-sm mb-2">
-              Gelora II Blk.J9/62 6 Jakarta 17 10 0122
+              Gelora II Blk.J9/62 6 Krt nius 17 10 0122
             </p>
             <p className="text-blue-200 text-sm mb-4">
-              Telepon Id +1 202 958 1820 808
+              Tlponid +1 202 958 1820 808
             </p>
             <div className="flex space-x-4">
               <a href="#" className="text-blue-200 hover:text-white">
