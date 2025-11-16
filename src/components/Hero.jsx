@@ -7,7 +7,7 @@ const Hero = () => {
         <div className="flex flex-col md:flex-row items-center justify-between bg-white rounded-2xl shadow-lg overflow-hidden">
           <div className="w-full md:w-1/2 p-6 sm:p-8 md:p-12 text-center md:text-left">
             <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-gray-800 mb-4 sm:mb-6">
-              DISKON 50% UNTUK<br />PEMBULIAN PERTRMA!
+              DISKON 50% UNTUK<br />PEMBELIAN PERTAMA!
             </h1>
             <button className="bg-blue-900 text-white px-6 sm:px-8 py-2.5 sm:py-3 rounded-full hover:bg-blue-800 transition text-sm sm:text-base">
               BELANJA SEKARANG
